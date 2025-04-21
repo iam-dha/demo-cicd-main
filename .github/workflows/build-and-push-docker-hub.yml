@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: iam-dha/ci-cd:staging2
+          tags: iam-dha/demo-cicd-main
 
 
 
