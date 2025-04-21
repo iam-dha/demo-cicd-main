@@ -33,6 +33,7 @@ jobs:
           tags: iam-dha/ci-cd:staging2
 
 
+
   pull-and-up:
     name: Pull new image and re run with the new version
     runs-on: ubuntu-latest
